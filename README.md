@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola Soy jeffry Perez Duarte.
+-Estudiante de Programacion Python👋
 
 <!--
 **vesubius/vesubius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
